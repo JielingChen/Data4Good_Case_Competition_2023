@@ -1,6 +1,6 @@
 # 2023 Data4Good Case Competiton: End-to-End Medical Information Extraction with Open-Source LLMs
 
-An end-to-end LLMs workflow that converts raw clinical transcripts into structured, system-ready records. 
+An end-to-end LLMs workflow that converts raw clinical transcripts into structured, system-ready records.  
 Case competition info: https://business.purdue.edu/events/data4good/
 
 ## Overview
