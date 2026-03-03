@@ -34,7 +34,7 @@ flowchart TD
 
 Each transcript is converted into exactly 6 entries for downstream processing:
 1. Patient name
-2. Patient age (numeric only)
+2. Patient age
 3. Condition
 4. Symptoms
 5. Precautionary advice
